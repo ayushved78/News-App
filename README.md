@@ -3,7 +3,7 @@
 <h3>How to use<h3>
 <p>The above application is developed using Flutter and Dart, so you need to execute the following steps before executing the application:
   <ol>
-    <li>make sure you are using SDK 29 or else change the SDK version</li>
+    <li>make sure you are using SDK 30 or else change the SDK version</li>
     <li>head ove to pubspect.yaml and perform pub get</li>
     <li>Open project location and run "flutter run"</li>
   </ol>
